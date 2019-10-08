@@ -17,7 +17,7 @@ def RegistrarProducto():
     li.append(p)
     
 def ConsultarProducto():
-    print("Consultar alumno")
+    print("Consultar Producto")
     
     idProducto=int(input("Ingrese el Id del producto"))
     for p in li:
